@@ -4,7 +4,7 @@ Cancer Grade Classification with Machine Learning
 This project involves classifying cancer grades using various machine learning algorithms. The data used for this project is sourced from TCGA (The Cancer Genome Atlas) and contains information on mutations and other clinical details.
 
 
-Table of Contents
+Table of Contents :
 
  Overview
  Installation
@@ -18,7 +18,7 @@ Table of Contents
  Model Deployment
 
 
-Objective
+Objective :
 
 The primary objective of this project is to develop a robust machine learning pipeline to classify cancer grades using clinical and mutation data from TCGA (The Cancer Genome Atlas). By achieving this objective, we aim to:
 
